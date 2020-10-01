@@ -1,20 +1,29 @@
 {
   "name": "cobain",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cobain publish pkg ke npm registry",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "author": "iancikal",
+  "contributors": [],
+  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "github.com/cikaldev/cobain"
+    "url": "https://github.com/cikaldev/cobain.git"
   },
+  "bugs": {
+    "url": "https://github.com/cikaldev/cobain/issues"
+  },
+  "homepage": "https://cobain.github.io",
   "keywords": [
     "coba",
     "npm",
     "package"
   ],
-  "author": "iancikal",
-  "license": "ISC"
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [],
+  "scripts": {}
 }
