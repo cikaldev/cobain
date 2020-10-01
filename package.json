@@ -1,0 +1,20 @@
+{
+  "name": "cobain",
+  "version": "0.0.1",
+  "description": "cobain publish pkg ke npm registry",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/cikaldev/cobain"
+  },
+  "keywords": [
+    "coba",
+    "npm",
+    "package"
+  ],
+  "author": "iancikal",
+  "license": "ISC"
+}
