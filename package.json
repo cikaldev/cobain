@@ -1,6 +1,6 @@
 {
   "name": "cobain",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "cobain publish pkg ke npm registry",
   "main": "main.js",
   "author": "iancikal",
@@ -19,7 +19,9 @@
     "npm",
     "package"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
   "devDependencies": {},
   "engines": {
     "node": ">= 0.10.0"
